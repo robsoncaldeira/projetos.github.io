@@ -76,7 +76,7 @@ Este relatório de análise de dados oferece uma visão completa sobre o desempe
 Se você deseja saber mais sobre este projeto ou discutir oportunidades de colaboração, entre em contato:
 
 - **Email**: robsoncaldera@gmail.com
-- **LinkedIn**: [linkedin.com/in/robsoncaldeira](https://www.linkedin.com/in/robson-caldeira-a712a03a/)
+- **LinkedIn**: [linkedin.com/in/robson-caldeira](https://www.linkedin.com/in/robson-caldeira-a712a03a/)
 - **GitHub**: [github.com/robsoncaldeira](https://github.com/robsoncaldeira)
 
 Obrigado por visitar meu portfólio!
