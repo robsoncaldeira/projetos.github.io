@@ -1,3 +1,7 @@
+Aqui está a versão revisada do relatório incorporando as mudanças solicitadas:
+
+---
+
 # **Call Center Management Dashboard & Insights**  
 
 ![Dashboard Completo](https://github.com/robsoncaldeira/projetos.github.io/blob/main/Imagens/Call%20center%20management_page-0001.jpg)
@@ -20,8 +24,8 @@ O dashboard apresenta uma visão macro das principais métricas do Call Center, 
 
 ![Chamadas Atendidas por Agente e Mês](https://github.com/robsoncaldeira/projetos.github.io/blob/main/Imagens/grafico%20chamadas%20atendidas%20por%20agente%20e%20mes.png)
 
-**Descoberta**: Agentes como João e Maria apresentam melhor performance ao longo dos meses, com o mês de agosto registrando um pico no número de chamadas.  
-**Sugestão**: Avaliar os fatores que contribuem para o alto desempenho desses agentes e replicar as práticas entre os demais membros da equipe. Implementar campanhas motivacionais em meses de maior demanda, como agosto.
+**Descoberta**: Agentes apresentam variações no desempenho ao longo dos meses, com picos em alguns períodos.  
+**Sugestão**: Avaliar fatores que contribuem para altos desempenhos e replicar boas práticas entre os membros da equipe. Implementar campanhas motivacionais em períodos de alta demanda.
 
 ---
 
@@ -55,20 +59,24 @@ O dashboard apresenta uma visão macro das principais métricas do Call Center, 
 ## 3. **Insights e Recomendações Baseados nos Dados**
 
 ### 3.1 **Queda no Número de Chamadas Resolvidas**
-**Descoberta**: Entre 27 e 31 de janeiro de 2021, o número de chamadas resolvidas caiu de 136 para 68, uma redução de 50% em apenas 4 dias.  
-**Recomendação**: Investigar as causas dessa queda brusca, como falta de pessoal, problemas técnicos ou aumento no volume de chamadas. Implementar monitoramento para identificar e mitigar quedas abruptas no futuro.
 
-### 3.2 **Distribuição de Chamadas**
-**Descoberta**: A categoria "Y" responde por 89,94% das chamadas (3.646), enquanto "N" registra apenas 408 chamadas.  
-**Recomendação**: Focar em otimizar o atendimento para a categoria "Y", que é a maioria. Entretanto, o atendimento da categoria "N" também deve ser analisado para evitar impacto negativo na qualidade geral do serviço.
+**Descoberta**: Entre quarta-feira, 27 de janeiro de 2021, e domingo, 31 de janeiro de 2021, o número de chamadas resolvidas caiu de 136 para 68, uma queda de 50%.  
+**Recomendação**: Investigar os fatores que causaram essa queda brusca, como falta de pessoal ou problemas no sistema. Implementar um processo de monitoramento para mitigar futuras quedas abruptas, como reforço de pessoal em dias de pico.
+
+### 3.2 **Distribuição de Chamadas por Categoria**
+
+**Descoberta**: A categoria "Y" representou 89,94% das chamadas, enquanto a "N" registrou apenas 408 chamadas.  
+**Recomendação**: Focar na otimização do atendimento para a categoria "Y", que domina o volume de chamadas, e explorar maneiras de melhorar a gestão da categoria "N", embora ela represente uma menor parte.
 
 ### 3.3 **Desempenho por Mês**
-**Descoberta**: Janeiro foi o mês com o maior número de chamadas atendidas, seguido de março e fevereiro.  
-**Recomendação**: Investigar os fatores sazonais que levam ao aumento de chamadas em janeiro e preparar recursos para atender à demanda futura.
+
+**Descoberta**: Janeiro foi o mês com o maior número de chamadas atendidas, com uma média de 181,88 chamadas.  
+**Recomendação**: Avaliar os fatores que contribuíram para o desempenho elevado em janeiro e ajustar recursos para atender à demanda crescente neste período.
 
 ### 3.4 **Desempenho do Agente Dan**
-**Descoberta**: O agente Dan foi responsável por 4,69% das chamadas atendidas em janeiro.  
-**Recomendação**: Analisar o desempenho de Dan para identificar práticas que possam ser aplicadas entre outros agentes, ou entender se há necessidade de suporte adicional para melhorar sua performance.
+
+**Descoberta**: Em janeiro, o agente Dan foi responsável por 4,69% das chamadas atendidas.  
+**Recomendação**: Monitorar o desempenho de agentes como Dan para identificar boas práticas que possam ser replicadas ou avaliar a necessidade de suporte adicional.
 
 ---
 
