@@ -39,7 +39,7 @@ Este gráfico categoriza as chamadas atendidas com base no nível de satisfaçã
 
 ---
 
-### 2.3 Total de Chamadas por Status
+### 2.3 Total de Chamadas por Status (Alcançadas vs. Não alcançadas)
 
 ![Total de Chamadas por Status](https://github.com/robsoncaldeira/projetos.github.io/blob/main/Imagens/grafico%20total%20de%20chamadas%20por%20status.png)
 
