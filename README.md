@@ -1,4 +1,7 @@
 # **Call Center Management Dashboard & Insights**  
+
+![Dashboard Completo](https://github.com/robsoncaldeira/projetos.github.io/blob/main/Imagens/Call%20center%20management_page-0001.jpg)
+
 **Análise de Desempenho e Recomendações de Melhoria**
 
 Bem-vindo ao meu portfólio de análise de dados! Este relatório detalha a gestão de um Call Center utilizando dados extraídos e analisados no Power BI. A análise aborda o desempenho dos agentes, a satisfação dos clientes e a eficiência no atendimento das chamadas, além de fornecer diagnósticos finais e recomendações para otimizar o serviço.
@@ -93,7 +96,5 @@ Entre em contato para discutir mais sobre este projeto ou oportunidades de colab
 - **GitHub**: [github.com/robsoncaldeira](https://github.com/robsoncaldeira)  
 
 ---
-
-Com essa estrutura, o relatório fica mais claro e com uma ordem lógica, permitindo uma melhor visualização dos insights e das recomendações.
 
 Obrigado por visitar meu portfólio!
