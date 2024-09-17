@@ -1,82 +1,99 @@
-# Portfólio de Análise de Dados - Gestão de Call Center
+# **Call Center Management Dashboard & Insights**  
+**Análise de Desempenho e Recomendações de Melhoria**
 
-Bem-vindo ao meu portfólio de análise de dados! Aqui apresento um relatório detalhado sobre a gestão de um Call Center, utilizando dados extraídos e analisados no Power BI. Este relatório oferece insights importantes sobre o desempenho dos agentes, níveis de satisfação dos clientes e a eficiência no atendimento das chamadas.
-
-## 1. Dashboard Completo
-
-![Dashboard Completo](https://github.com/robsoncaldeira/projetos.github.io/blob/main/Imagens/Call%20center%20management_page-0001.jpg)
-
-**Descrição Geral**:  
-O dashboard completo apresenta uma visão macro de todas as métricas do Call Center, incluindo o número de chamadas atendidas, o nível de satisfação dos clientes e a performance diária. Cada gráfico individual abaixo foca em uma parte específica da análise.
+Bem-vindo ao meu portfólio de análise de dados! Este relatório detalha a gestão de um Call Center utilizando dados extraídos e analisados no Power BI. A análise aborda o desempenho dos agentes, a satisfação dos clientes e a eficiência no atendimento das chamadas, além de fornecer diagnósticos finais e recomendações para otimizar o serviço.
 
 ---
 
-## 2. Gráficos Individuais
+## 1. **Visão Geral do Relatório**  
 
-### 2.1 Chamadas Atendidas por Agente e Mês
+O dashboard apresenta uma visão macro das principais métricas do Call Center, como chamadas atendidas, nível de satisfação dos clientes e performance diária. Esta seção inclui uma análise detalhada dos dados e recomendações práticas para melhorar a operação.
+
+---
+
+## 2. **Análise de Desempenho do Call Center**  
+
+### 2.1 **Chamadas Atendidas por Agente e Mês**
 
 ![Chamadas Atendidas por Agente e Mês](https://github.com/robsoncaldeira/projetos.github.io/blob/main/Imagens/grafico%20chamadas%20atendidas%20por%20agente%20e%20mes.png)
 
-**Descrição**:  
-Este gráfico mostra a quantidade de chamadas atendidas por cada agente em diferentes meses. Ele permite identificar padrões de desempenho dos agentes e como a quantidade de chamadas varia ao longo do tempo.
-
-**Insights**:  
-- Agentes como João e Maria têm atendido mais chamadas consistentemente ao longo dos meses.
-- O mês de agosto teve o maior número de chamadas atendidas, sugerindo um pico de demanda nesse período.
+**Descoberta**: Agentes como João e Maria apresentam melhor performance ao longo dos meses, com o mês de agosto registrando um pico no número de chamadas.  
+**Sugestão**: Avaliar os fatores que contribuem para o alto desempenho desses agentes e replicar as práticas entre os demais membros da equipe. Implementar campanhas motivacionais em meses de maior demanda, como agosto.
 
 ---
 
-### 2.2 Chamadas Atendidas por Nível de Satisfação
+### 2.2 **Chamadas Atendidas por Nível de Satisfação**
 
 ![Chamadas Atendidas por Nível de Satisfação](https://github.com/robsoncaldeira/projetos.github.io/blob/main/Imagens/grafico%20chamadas%20atendidas%20por%20nivel%20de%20satisfa%C3%A7%C3%A3o.png)
 
-**Descrição**:  
-Este gráfico categoriza as chamadas atendidas com base no nível de satisfação dos clientes, oferecendo uma visão clara de como os agentes estão lidando com o atendimento ao cliente.
-
-**Insights**:  
-- A maioria dos clientes classificou o atendimento como "Muito Satisfeito".
-- O nível de insatisfação aumentou ligeiramente em meses de maior volume de chamadas.
+**Descoberta**: A maior parte dos clientes está "Muito Satisfeita" com o atendimento, embora haja um pequeno aumento no nível de insatisfação em períodos de maior volume de chamadas.  
+**Sugestão**: Monitorar mais de perto os feedbacks de clientes insatisfeitos para realizar ajustes rápidos, especialmente durante períodos de alta demanda.
 
 ---
 
-### 2.3 Total de Chamadas por Status (Alcançadas vs. Não alcançadas)
+### 2.3 **Total de Chamadas por Status (Alcançadas vs. Não Alcançadas)**
 
 ![Total de Chamadas por Status](https://github.com/robsoncaldeira/projetos.github.io/blob/main/Imagens/grafico%20total%20de%20chamadas%20por%20status.png)
 
-**Descrição**:  
-Este gráfico mostra a distribuição das chamadas com base no status (resolvidas, não resolvidas, pendentes), permitindo uma análise da eficiência no atendimento.
-
-**Insights**:  
-- O número de chamadas resolvidas é significativamente maior do que as não resolvidas.
-- Chamadas pendentes representam uma pequena porcentagem, o que indica um bom nível de atendimento.
+**Descoberta**: A maioria das chamadas foi resolvida com sucesso, enquanto uma pequena porcentagem ficou pendente.  
+**Sugestão**: Investir em melhorias no sistema de follow-up para reduzir o número de chamadas não resolvidas, garantindo que menos questões fiquem pendentes.
 
 ---
 
-### 2.4 Chamadas Resolvidas por Dia
+### 2.4 **Chamadas Resolvidas por Dia**
 
 ![Chamadas Resolvidas por Dia](https://github.com/robsoncaldeira/projetos.github.io/blob/main/Imagens/grafico%20total%20de%20chamadas%20resolvidas%20por%20dia.png)
 
-**Descrição**:  
-Este gráfico analisa o número de chamadas que foram resolvidas em cada dia, permitindo identificar os dias mais eficientes do Call Center.
-
-**Insights**:  
-- As segundas-feiras são os dias com mais chamadas resolvidas, o que pode indicar um maior volume de trabalho no início da semana.
-- Fins de semana têm um número reduzido de chamadas resolvidas, provavelmente devido à menor equipe ou demanda.
+**Descoberta**: As segundas-feiras registram o maior número de chamadas resolvidas, sugerindo maior volume de trabalho no início da semana. Fins de semana têm baixa resolução de chamadas.  
+**Sugestão**: Ajustar a alocação de recursos para lidar com o aumento no volume de chamadas no início da semana e revisar a equipe de plantão nos fins de semana para melhorar a eficiência nesses dias.
 
 ---
 
-## 3. Conclusão
+## 3. **Insights e Recomendações Baseados nos Dados**
 
-Este relatório de análise de dados oferece uma visão completa sobre o desempenho de um Call Center, desde o atendimento dos agentes até a satisfação dos clientes. A análise ajuda a identificar pontos fortes e áreas de melhoria, permitindo uma gestão mais eficiente e focada em resultados.
+### 3.1 **Queda no Número de Chamadas Resolvidas**
+**Descoberta**: Entre 27 e 31 de janeiro de 2021, o número de chamadas resolvidas caiu de 136 para 68, uma redução de 50% em apenas 4 dias.  
+**Recomendação**: Investigar as causas dessa queda brusca, como falta de pessoal, problemas técnicos ou aumento no volume de chamadas. Implementar monitoramento para identificar e mitigar quedas abruptas no futuro.
+
+### 3.2 **Distribuição de Chamadas**
+**Descoberta**: A categoria "Y" responde por 89,94% das chamadas (3.646), enquanto "N" registra apenas 408 chamadas.  
+**Recomendação**: Focar em otimizar o atendimento para a categoria "Y", que é a maioria. Entretanto, o atendimento da categoria "N" também deve ser analisado para evitar impacto negativo na qualidade geral do serviço.
+
+### 3.3 **Desempenho por Mês**
+**Descoberta**: Janeiro foi o mês com o maior número de chamadas atendidas, seguido de março e fevereiro.  
+**Recomendação**: Investigar os fatores sazonais que levam ao aumento de chamadas em janeiro e preparar recursos para atender à demanda futura.
+
+### 3.4 **Desempenho do Agente Dan**
+**Descoberta**: O agente Dan foi responsável por 4,69% das chamadas atendidas em janeiro.  
+**Recomendação**: Analisar o desempenho de Dan para identificar práticas que possam ser aplicadas entre outros agentes, ou entender se há necessidade de suporte adicional para melhorar sua performance.
 
 ---
 
-## 4. Contato
+## 4. **Diagnóstico Final e Recomendações**
 
-Se você deseja saber mais sobre este projeto ou discutir oportunidades de colaboração, entre em contato:
+O Call Center apresenta bom desempenho geral, com a maioria das chamadas sendo resolvidas com sucesso. No entanto, há oportunidades de melhoria nas seguintes áreas:
+1. **Monitoramento de Quedas Abruptas**: Implementar processos para detectar quedas repentinas no número de chamadas resolvidas.
+2. **Gestão de Categorias de Chamadas**: Revisar a gestão da categoria "N" para evitar potenciais impactos negativos.
+3. **Alocação de Recursos**: Ajustar a equipe para dias de maior volume de chamadas, como segundas-feiras.
+4. **Treinamento Contínuo**: Oferecer feedback e treinamento para agentes com baixas taxas de satisfação.
 
-- **Email**: robsoncaldera@gmail.com
-- **LinkedIn**: [linkedin.com/in/robson-caldeira](https://www.linkedin.com/in/robson-caldeira-a712a03a/)
-- **GitHub**: [github.com/robsoncaldeira](https://github.com/robsoncaldeira)
+---
+
+## 5. **Conclusão**
+
+A análise dos dados de gestão de Call Center demonstra áreas de eficiência, mas também identifica pontos de atenção, como a queda brusca no número de chamadas resolvidas e a distribuição desigual de chamadas entre categorias. Implementar as recomendações apresentadas ajudará a otimizar o atendimento e melhorar a qualidade do serviço.
+
+---
+
+## 6. **Contato**
+
+Entre em contato para discutir mais sobre este projeto ou oportunidades de colaboração:  
+- **Email**: robsoncaldera@gmail.com  
+- **LinkedIn**: [linkedin.com/in/robson-caldeira](https://www.linkedin.com/in/robson-caldeira-a712a03a/)  
+- **GitHub**: [github.com/robsoncaldeira](https://github.com/robsoncaldeira)  
+
+---
+
+Com essa estrutura, o relatório fica mais claro e com uma ordem lógica, permitindo uma melhor visualização dos insights e das recomendações.
 
 Obrigado por visitar meu portfólio!
