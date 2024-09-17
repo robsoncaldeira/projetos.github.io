@@ -2,7 +2,7 @@
 
 # **Call Center Management Dashboard & Insights**  
 
-![Dashboard Completo](https://github.com/robsoncaldeira/projetos.github.io/blob/main/Imagens/Call%20center%20management_page-0001.jpg)
+<img src="https://raw.githubusercontent.com/robsoncaldeira/projetos.github.io/main/Imagens/Call%20center%20management_page-0001.jpg" alt="Dashboard Completo" style="width:100%;"/>
 
 **Análise de Desempenho e Recomendações de Melhoria**
 
