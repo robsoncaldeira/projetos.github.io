@@ -1,5 +1,3 @@
-Aqui está a versão revisada do relatório incorporando as mudanças solicitadas:
-
 ---
 
 # **Call Center Management Dashboard & Insights**  
